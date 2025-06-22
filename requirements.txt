@@ -1,0 +1,4 @@
+requests
+ipython
+Pillow
+markdown
